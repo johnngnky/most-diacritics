@@ -35,7 +35,8 @@ So i was trying to find which english word has the most diacritics, i was thinki
 i made this crude python program, which used wiktionary's data. 
 
 ### Result
-all the results with 4 diacritics (max) were proper nouns. it's currently 1am and i am too lazy to do it for the 3 marks. i might do it if i have the motivation :shrug:
+~~all the results with 4 diacritics (max) were proper nouns. it's currently 1am and i am too lazy to do it for the 3 marks. i might do it if i have the motivation :shrug:~~
+done!
 
 btw, i made all the code in vim, the first time i've done a project completely using it!
 
