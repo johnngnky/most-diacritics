@@ -11,6 +11,22 @@ Hárbarðsljóð
 Vafþrúðnismál
 ```
 
+For non proper nouns, I've filtered them out. These are all words with 3 diacritics without being a proper noun:
+```
+pääkkönenite
+crème brûlée
+crème brûlées
+flèche faîtière
+flèches faîtières
+zoöglœæ
+tête-à-tête
+tête-à-têtes
+démêlé
+démêlés
+vidéo vérité
+cinéma vérité
+```
+
 ## Note:
 This is an extremely badly coded project, i didn't follow any PEP8, this was done at 1am, i was just curious. also, code in releases section
 
