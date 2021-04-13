@@ -12,7 +12,7 @@ Vafþrúðnismál
 ```
 
 ## Note:
-This is an extremely badly coded project, i didn't follow any PEP8, this was done at 1am, i was just curious. 
+This is an extremely badly coded project, i didn't follow any PEP8, this was done at 1am, i was just curious. also, code in releases section
 
 ### What this is
 So i was trying to find which english word has the most diacritics, i was thinking of the word: naïveté, before i started. 
