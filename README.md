@@ -27,3 +27,58 @@ btw, i made all the code in vim, the first time i've done a project completely u
 
 
 
+### Results (3)
+```
+~/words$ python get3.py
+pääkkönenite
+São Tomé and Príncipe
+Bình Dương
+crème brûlées
+flèche faîtière
+České Budějovice
+Tłįchǫ
+Sûreté du Québec
+zoöglœæ
+tête-à-tête
+démêlé
+Elâzığ
+Székesfehérvár
+Región Autónoma del Atlántico Norte
+Mañjuśrī
+Fudō Myōō
+Järvenpää
+Lōmāfānu
+Lempäälä
+Śūnyatā
+démêlés
+ǃXóõ
+flèches faîtières
+Región Autónoma del Atlántico Sur
+Sèkèrè
+ǂQhôã
+crème brûlée
+Łódź
+Gorzów Śląski
+Rääkkylä
+Mahāsthāmaprāpta
+vidéo vérité
+ǂHõã
+Vígríðr
+Táin Bó Cúailnge
+Świętochłowice
+cinéma vérité
+Kärkölä
+İsmayıllı
+Klášterní Hradisko
+tête-à-têtes
+Gāndhārī
+Špišić Bukovica
+Mūlamadhyamakakārikā
+sèkèrè
+hæmorrhœæ
+crèmes brûlées
+Bà Rịa - Vũng Tàu
+crèmes brûlée
+Gračišće
+```
+these are words with 3 diacritics 
